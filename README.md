@@ -1,1 +1,1 @@
-basically design the or gate and and gate
+basically design the or gate,and gate,and not gate
